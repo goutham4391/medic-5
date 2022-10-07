@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Tue, 27 Sep 2022 13:37:11 at https://technext.github.io/health-center/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://technext.github.io/health-center/index.html -O "/home/kumartej/websites/Medico5" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/css/magnific-popup.css (from https://technext.github.io/health-center/news-detail.html)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/js/jquery.magnific-popup.min.js (from https://technext.github.io/health-center/news-detail.html)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/js/magnific-popup-options.js (from https://technext.github.io/health-center/news-detail.html)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.eot (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.eot? (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.woff2 (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.woff (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.ttf (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/fonts/glyphicons-halflings-regular.svg (from https://technext.github.io/health-center/css/bootstrap.min.css)
+13:39:15	Error: 	"Not Found" (404) at link https://technext.github.io/health-center/css/owl.video.play.png (from https://technext.github.io/health-center/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 4 seconds : 46 links scanned, 41 files written (2745103 bytes overall) [1681694 bytes received at 13562 bytes/sec], 1524705 bytes transferred using HTTP compression in 31 files, ratio 39%, 6.4 requests per connection
+(10 errors, 0 warnings, 0 messages)
